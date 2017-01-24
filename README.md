@@ -10,9 +10,9 @@ The [@publicdocs-eng](https://github.com/publicdocs-eng) account is used to push
 
 ## TOC
 * 2017
-  * Executive Orders
-  * Presidential Memos
-  * Proclamations
+  * [Executive Orders](https://github.com/publicdocs/uspotusactions/blob/master/assets/md/2017/executiveorders/)
+  * [Presidential Memos](https://github.com/publicdocs/uspotusactions/blob/master/assets/md/2017/memos/)
+  * [Proclamations](https://github.com/publicdocs/uspotusactions/blob/master/assets/md/2017/proclamations/)
 
 ## Notice
 
